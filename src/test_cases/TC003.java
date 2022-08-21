@@ -4,5 +4,6 @@ public class TC003 {
 
     //FFHGJGG
     //B,BM,BM,B,B,
+    //NXCNNCVNCVNNCVN
 
 }
